@@ -22,4 +22,4 @@ The survey gathered responses from 630 participants from various countries. Key 
 
 This analysis offers insights into the current state of the data profession, reflecting the views and experiences of those in the industry.
 
-![survey_analysis](survey_analysis.pdf)
+![survey_analysis](survey_analysis.PNG)
