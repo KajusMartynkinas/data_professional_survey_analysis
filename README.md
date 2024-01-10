@@ -12,14 +12,14 @@ The analysis is based on survey data, which can be found here:
 
 ## Analysis Summary
 The survey gathered responses from 630 participants from various countries. Key findings include:
+- Data Scientists have the largest salary.
 - The preferred programming language among the majority is Python.
 - A general consensus suggests ease of entry into the data field.
 - However, average happiness ratings amongst the participants are noted to be relatively low.
-- Data Scientists have the largest salary.
 
 ## Tools Used
 - PowerBI
 
 This analysis offers insights into the current state of the data profession, reflecting the views and experiences of those in the industry.
 
-![survey_analysis](survey_analysis.pdf)
+![survey_analysis](survey_analysis.PNG)
