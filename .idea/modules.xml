@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/powerbi_data_professional_survey_analysis.iml" filepath="$PROJECT_DIR$/.idea/powerbi_data_professional_survey_analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../powerbi_data_professional_survey_analysis/.idea/powerbi_data_professional_survey_analysis.iml" filepath="$PROJECT_DIR$/../powerbi_data_professional_survey_analysis/.idea/powerbi_data_professional_survey_analysis.iml" />
     </modules>
   </component>
 </project>
